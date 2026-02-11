@@ -1,0 +1,10 @@
+.DS_Store
+.env
+
+/target
+/dist
+
+/part3.txt
+/part3-diarized.txt
+
+/Formula

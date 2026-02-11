@@ -1,0 +1,4 @@
+interface:
+  display_name: "AssemblyAI CLI"
+  short_description: "Install and use assemblyai-cli"
+  default_prompt: "Use $assemblyai-cli to install/update assemblyai-cli (Homebrew or GitHub) and initialize ~/.assemblyai-cli/config.json."
