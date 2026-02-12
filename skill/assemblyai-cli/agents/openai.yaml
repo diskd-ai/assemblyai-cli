@@ -1,0 +1,4 @@
+interface:
+  display_name: "AssemblyAI CLI"
+  short_description: "Install and transcribe with assemblyai-cli"
+  default_prompt: "Use $assemblyai-cli to install/update assemblyai-cli, ensure ffmpeg, and transcribe media into text/srt/vtt (optional diarization). If transcribe fails due to missing API key, ask the user to run `assemblyai-cli init` (or set ASSEMBLYAI_API_KEY) and retry."
